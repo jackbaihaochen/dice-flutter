@@ -1,6 +1,6 @@
 # dicee_flutter
 
-A new Flutter project.
+My learning practice project for building Flutter.
 
 ## Getting Started
 
